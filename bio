@@ -1,0 +1,89 @@
+## 👋 Hi, I'm Bhavyani Dodda
+
+🎓 **MS in Data Science @ Rutgers University – Camden** (GPA: 3.917)
+🎓 **BSc in Statistics & Economics @ Lady Shri Ram College for Women** (GPA: 3.55)
+
+🔍 Passionate about data-driven storytelling, predictive modeling, and making sense of messy data through powerful visualizations.
+🌐 Building machine learning models that drive real-world impact, especially in **mental health**, **healthcare analytics**, and **entertainment intelligence**.
+
+---
+
+### 💼 Experience
+
+**🔬 Research Assistant, Rutgers University**
+*Department of Health Economics*
+
+* Contributed to research on declining childbearing in Asia (upcoming publication).
+* Analyzing adolescent risky behavior related to road accidents.
+
+**📊 Data Analyst, Bhashyam Educational Institutions, India**
+
+* Managed admissions and academic databases for 7 schools.
+* Built Power BI dashboards to improve academic performance tracking.
+* Implemented time series forecasting to optimize fee collection (↑ 15%).
+* Led student clustering for better sectioning (achieved 98% pass rate).
+
+---
+
+### 📈 Notable Projects
+
+**🧠 Predicting Adolescent Depression**
+\[Machine Learning Project | Logistic Regression & Random Forest]
+
+* Built classification models using NSDUH survey data to predict Major Depressive Episodes with Severe Impairment (MDESI).
+* Prioritized recall to minimize false negatives in a mental health context.
+* Achieved 69–71% accuracy and AUC ≈ 0.77.
+* Techniques: EDA, ROC-AUC, logistic modeling, ensemble learning, sklearn.
+
+**🎬 Asian Drama Success Prediction**
+\[Independent Study | Content-Based Filtering & Regression Modeling]
+
+* Scraped and processed data of 5,000+ Asian dramas from MyDramaList.
+* Engineered a success score = `Rating × log(Viewers + 1)` for nuanced performance analysis.
+* Built a Random Forest Regressor with R² = 0.77, MAE ≈ 4.3.
+* Developed an interactive content-based recommender system.
+* Tools: pandas, sklearn, NLP parsing, data cleaning, one-hot encoding.
+
+**🗺️ GIS-based Venue Recommendation Engine**
+\[Data Visualization Final Project]
+
+* Mapped NYC venues using GIS libraries (GeoPandas, Folium).
+* Categorized by type, rating, and tourist preferences.
+* Created route maps and daily plans tailored to input variables (location, venue type, time).
+
+**🌊 National Waterways Mapping in India**
+
+* Visualized Indian river networks for inland waterway expansion potential.
+* Used spatial datasets to recommend economic water routes.
+
+**🏥 Medical Cost Prediction using Statistical Tests**
+
+* Analyzed relationships between smoking, BMI, and regional factors on healthcare costs.
+* Used T-tests, ANOVA, and Chi-square to uncover impactful variables.
+
+---
+
+### 🛠️ Tools & Skills
+
+* **Languages**: Python, R, SAS
+* **Visualization**: Power BI, Tableau, Excel
+* **Databases**: MySQL, Relational Databases
+* **ML Libraries**: scikit-learn, pandas, matplotlib, seaborn
+* **Specializations**: Predictive Modeling, Data Cleaning, Health & Entertainment Analytics, Recommendation Systems
+
+---
+
+### 📜 Certifications
+
+* Microsoft Power BI Data Analyst – Coursera
+* Data Science Certification – SUNY Potsdam
+* Intermediate R, ggplot2 & dplyr – DataCamp
+* Data Science – 360DigiTMG (AiSPRY Affiliated)
+
+---
+
+### 🔗 Let’s Connect
+
+📬 **Email**: [bhavyani.dodda123@gmail.com](mailto:bhavyani.dodda123@gmail.com)
+🔗 **LinkedIn**: [linkedin.com/in/bhavyani-dodda-414ab6195](https://www.linkedin.com/in/bhavyani-dodda-414ab6195)
+
